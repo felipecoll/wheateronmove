@@ -10,7 +10,7 @@ export default ({ user, onOpenLogin, onDetectGPS }) => {
       {/* Logo */}
       <div className="flex items-center space-x-2">
         <span className="w-3 h-3 bg-accentLime rounded-full animate-pulse"></span>
-        <h1 className="text-lg font-bold text-gray-900 dark:text-white tracking-wide">MojoWeather</h1>
+        <h1 className="text-lg font-bold text-gray-900 dark:text-white tracking-wide">Mojo Weather | Dashboard</h1>
       </div>
 
       {/* Controles centrales / Acciones rápidas en móvil */}

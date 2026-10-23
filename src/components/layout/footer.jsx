@@ -9,7 +9,7 @@ export default ({ lastUpdated, onRefresh }) => {
         {/* Izquierda: Marca y estado de red */}
         <div className="flex items-center space-x-2">
           <Mountain size={16} className="text-accentLime" />
-          <span className="font-semibold text-gray-700 dark:text-gray-300">MojoWeather</span>
+          <span className="font-semibold text-gray-700 dark:text-gray-300">Mojo Weather</span>
           <span className="hidden sm:inline-block text-[10px] bg-green-500/10 text-green-500 px-2 py-0.5 rounded-full font-medium">
             PWA Sync
           </span>
